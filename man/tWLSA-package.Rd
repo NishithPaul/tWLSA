@@ -13,7 +13,7 @@
         Package: \tab tWLSA\cr
         Type: \tab Package\cr
         Version: \tab 1.0\cr
-        Date: \tab 2020-12-14\cr
+        Date: \tab 2021-01-01\cr
         License: \tab GPL \cr
         Depends: \tab R (>=2.10)\cr
     }
@@ -27,7 +27,9 @@
 \cr
          chkOutMiss(): \tab This function Checks both outliers and missing values data matrix\cr                              \tab function.
 \cr
-         missChkOut(): \tab This function clean the outliers\cr                              \tab function.
+         missChkOut(): \tab This function checks the outliers\cr                              \tab function.
+\cr
+         removeOut(): \tab This function clean the outliers\cr                              \tab function.
 \cr
 
          wlsMisImp(): \tab This function impute the missing values using two way kernel weight based least square approach  \cr

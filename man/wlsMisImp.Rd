@@ -46,5 +46,6 @@ wlsMisImp(x, lamda = 0.1, conRate = 99, group = 1, noGrpMem = c(ncol(x)), outlie
 
 \examples{
 data(dummyDataMiss)
-recData<-wlsMisImp(dummyDataMiss)
+recData<-wlsMisImp(dummyDataMiss,lamda=0.1,conRate=99,group=2,noGrpMem=c(28,17),outlier=TRUE)
+
 }

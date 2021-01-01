@@ -2,7 +2,7 @@ Package: tWLSA
 Type: Package
 Title: Two way Kernel Weighted Least Squate Approach for Missing Value Imputation of Metabolomics Data
 Version: 1.0
-Date: 2020-12-14
+Date: 2021-01-01
 Author: Nishith Kumar, Md. Aminul Hoque and Masahiro Sugimoto 
 Maintainer: Nishith Kumar <nk.bru09@gmail.com>    
 Description: Missing value imputation technique by minimizing two-way kernel weighted square error loss function 
